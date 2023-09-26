@@ -1,31 +1,31 @@
 # CarNova
 A Next.Js application where you can discover world's best cars and review them.
 
-## Overview
-### Home Page
+# [Link To The APP](https://car-showcase-nxt.vercel.app/)
+
+# Overview
+#### Home Page
 <img width="1663" alt="Screenshot 2023-09-26 at 1 34 45 PM" src="https://github.com/swarshah09/carShowcaseNxt/assets/90791181/2abb8b9b-b546-4926-baf2-9dd4662966ce">
 
-### Car Catalogue Page
+#### Car Catalogue Page
 <img width="1094" alt="Screenshot 2023-09-26 at 1 35 09 PM" src="https://github.com/swarshah09/carShowcaseNxt/assets/90791181/cf1bcd5b-2060-4966-9e52-46ccc74e909f">
 
-### Car Details Card
+#### Car Details Card
 <img width="1670" alt="Screenshot 2023-09-26 at 2 47 47 PM" src="https://github.com/swarshah09/carShowcaseNxt/assets/90791181/08d7f62b-cec7-47a2-9c6e-a31ac0c9612c">
 
-## Tech Stack
+# Tech Stack
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-## API Reference
+# API Reference
 
 #### Get all items
-
+ ![icons8-api-20](https://github.com/swarshah09/carShowcaseNxt/assets/90791181/6b213972-eb13-4aec-a713-a0bf79f19282)Cars by API-Ninjas:
 ```
-  Cars by API-Ninjas
   (https://rapidapi.com/apininjas/api/cars-by-api-ninjas)
 ```
-
 | Parameter | Type     | 
 | :-------- | :------- | 
 | make| `string` |
@@ -43,7 +43,10 @@ min_comb_mpg | `float` |
 max_comb_mpg | `float` |
 limit | `integer` |
 
-
+![icons8-api-20](https://github.com/swarshah09/carShowcaseNxt/assets/90791181/6b213972-eb13-4aec-a713-a0bf79f19282)Car images API:
+```
+https://www.imagin.studio/car-image-api
+```
 
 ## Getting Started
 
