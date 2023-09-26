@@ -31,4 +31,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## Overview
-![Alt text]()
+<img width="1663" alt="Screenshot 2023-09-26 at 1 34 45 PM" src="https://github.com/swarshah09/carShowcaseNxt/assets/90791181/2abb8b9b-b546-4926-baf2-9dd4662966ce">
