@@ -32,3 +32,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Overview
 <img width="1663" alt="Screenshot 2023-09-26 at 1 34 45 PM" src="https://github.com/swarshah09/carShowcaseNxt/assets/90791181/2abb8b9b-b546-4926-baf2-9dd4662966ce">
+<img width="1094" alt="Screenshot 2023-09-26 at 1 35 09 PM" src="https://github.com/swarshah09/carShowcaseNxt/assets/90791181/cf1bcd5b-2060-4966-9e52-46ccc74e909f">
+
